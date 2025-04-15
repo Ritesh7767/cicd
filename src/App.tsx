@@ -8,6 +8,7 @@ function App() {
 
   return (
     <>
+      <h1>Hello world</h1>
       <h1>Counter value :- {count}</h1>
       <button onClick={handleClick} >+</button>
     </>
